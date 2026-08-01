@@ -8,7 +8,7 @@ A 2D top-down arcade game built in Godot 4 where you dodge enemies, eat food to 
 
 ## 🎮 Play It
 
-- **Web:** <!-- replace with your itch.io link once published -->](https://iushiln.itch.io/gumball-game)
+- **Web:** <!-- replace with your itch.io link once published --> (https://iushiln.itch.io/gumball-game)
 
 
 ## 🕹️ How to Play
