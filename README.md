@@ -6,12 +6,12 @@ A 2D top-down arcade game built in Godot 4 where you dodge enemies, eat food to 
 ![Gameplay screenshot](path/to/screenshot.png)
 -->
 
-## 🎮 Play It
+## Play It
 
 - **Web:** <!-- replace with your itch.io link once published --> (https://iushiln.itch.io/gumball-game)
 
 
-## 🕹️ How to Play
+## How to Play
 
 - **Move:** Arrow keys / WASD
 - **Goal:** Eat food to increase your score while avoiding enemies
@@ -19,7 +19,7 @@ A 2D top-down arcade game built in Godot 4 where you dodge enemies, eat food to 
 - Enemies get faster, spawn more often, and appear in larger groups the longer you survive — there are no fixed levels, just a constant ramp-up in difficulty
 - Your best score is saved automatically and shown on the main menu
 
-## ✨ Features
+## Features
 
 - Continuous difficulty scaling (enemy speed, spawn rate, and spawn size all increase smoothly over time)
 - Two enemy types (normal and fast) with different behavior
@@ -28,12 +28,12 @@ A 2D top-down arcade game built in Godot 4 where you dodge enemies, eat food to 
 - Full sound design: music, UI feedback, and gameplay sound effects
 - Game over screen with instant restart
 
-## 🛠️ Built With
+## Built With
 
 - [Godot Engine](https://godotengine.org/) 4.7.1
 - GDScript
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── Scene/              # Scene files (.tscn)
@@ -57,7 +57,7 @@ A 2D top-down arcade game built in Godot 4 where you dodge enemies, eat food to 
 ```
 
 
-## 🙏 Credits
+## Credits
 
 - Game design & development: Shilan - i did the design
 - Sound effects and music: https://pixabay.com/sound-effects/search/game/
